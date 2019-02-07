@@ -1,0 +1,19 @@
+
+ID :1 
+Nom :GALATI
+Prenom :Gaetan 
+Ville :Colmar 
+Le code postale :68000 
+Adresse :12RueDeBerlin 
+ID :2 
+Nom :BROS 
+Prenom :Mario 
+Ville :ChampiVille 
+Le code postale :123456 
+Adresse :1RueDuChateau 
+ID :3 
+Nom :CROFT 
+Prenom :Lara 
+Ville :Londre 
+Le code postale :3564 
+Adresse :LeManoirDesCroft 

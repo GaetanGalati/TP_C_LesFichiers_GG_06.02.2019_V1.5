@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1549352066 source:c:\users\skyfu\documents\projetcodeblocks\tp_fichier\fichier_foncproc.c
+	<stdio.h>
+	<stdlib.h>
+	"Head_Fichier.h"
+
+1549357327 c:\users\skyfu\documents\projetcodeblocks\tp_fichier\head_fichier.h
+	<stdio.h>
+	<stdlib.h>
+
+1549297033 source:c:\users\skyfu\documents\projetcodeblocks\tp_fichier\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Head_Fichier.h"
+

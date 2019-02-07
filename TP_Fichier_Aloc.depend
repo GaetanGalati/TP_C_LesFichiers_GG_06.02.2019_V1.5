@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1549297033 source:c:\users\skyfu\documents\projetcodeblocks\tp_fichier_aloc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Head_Fichier.h"
+
+1549360100 c:\users\skyfu\documents\projetcodeblocks\tp_fichier_aloc\head_fichier.h
+	<stdio.h>
+	<stdlib.h>
+
+1549360264 source:c:\users\skyfu\documents\projetcodeblocks\tp_fichier_aloc\fichier_foncproc.c
+	<stdio.h>
+	<stdlib.h>
+	"Head_Fichier.h"
+
+1549567822 source:c:\users\utilisateur\desktop\codec\tp_fichier_aloc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Head_Fichier.h"
+
+1549568260 c:\users\utilisateur\desktop\codec\tp_fichier_aloc\head_fichier.h
+	<stdio.h>
+	<stdlib.h>
+
+1549539541 source:c:\users\utilisateur\desktop\codec\tp_fichier_aloc\fichier_foncproc.c
+	<stdio.h>
+	<stdlib.h>
+	"Head_Fichier.h"
+
