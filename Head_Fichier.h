@@ -19,5 +19,5 @@ typedef enum BOOL {TRUE,FALSE} BOOL;
 extern FILE* fopen(const char* MesCartes, const char* Ouverture);
 extern void Lecture(FILE* fichier, Carte *identite );
 extern void Ecriture(FILE* fichier, Carte *identite );
-
+extern void AffichagLecturee(FILE* fichier, char *cChoix, Carte *identite);
 #endif // HEAD_FICHIER_H_INCLUDED
